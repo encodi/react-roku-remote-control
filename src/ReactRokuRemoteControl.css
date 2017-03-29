@@ -1,0 +1,9 @@
+.roku-remote-control-wrapper {
+  width: 320px;
+}
+
+.roku-remote-control-wrapper .divider {
+  width: 290px;
+  margin: 10px 0 10px 0;
+  border: 1px solid #000000;
+}
