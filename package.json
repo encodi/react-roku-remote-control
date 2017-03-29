@@ -1,6 +1,6 @@
 {
   "name": "react-roku-remote-control",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "react-roku-remote-control",
   "main": "lib/ReactRokuRemoteControl.js",
   "author": "encodi",

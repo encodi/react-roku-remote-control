@@ -1,6 +1,8 @@
 # react-roku-remote-control
 
-__COMPONENT DESCRIPTION GOES HERE__
+Just to have fun with a local React Application and a Roku Device in the same network.
+
+Once integrated, you can use your web browser to control the Roku device.
 
 
 ## Demo & Examples
@@ -30,21 +32,18 @@ npm install react-roku-remote-control --save
 
 ## Usage
 
-__EXPLAIN USAGE HERE__
 
 ```
 var ReactRokuRemoteControl = require('react-roku-remote-control');
 
-<ReactRokuRemoteControl>Example</ReactRokuRemoteControl>
+<ReactRokuRemoteControl ip="127.0.0.1">Example</ReactRokuRemoteControl>
 ```
 
 ### Properties
 
-* __DOCUMENT PROPERTIES HERE__
+ip of the roku device in the same network
 
 ### Notes
-
-__ADDITIONAL USAGE NOTES__
 
 
 ## Development (`src`, `lib` and the build process)
@@ -53,9 +52,15 @@ __ADDITIONAL USAGE NOTES__
 
 To build, watch and serve the examples (which will also watch the component source), run `npm start`. If you just want to watch changes to `src` and rebuild `lib`, run `npm run watch` (this is useful if you are working with `npm link`).
 
+## Contributors
+
+(@encodi)
+
+By all means, if you see room for improvement, let us know!
+
+
 ## License
 
-__PUT LICENSE HERE__
+MIT License
 
 Copyright (c) 2017 encodi.
-
