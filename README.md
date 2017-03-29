@@ -1,5 +1,8 @@
 # react-roku-remote-control
 
+[![npm version](https://badge.fury.io/js/react-roku-remote-control.svg)](https://badge.fury.io/js/react-roku-remote-control)
+[![GitHub version](https://badge.fury.io/gh/encodi%2Freact-roku-remote-control.svg)](https://badge.fury.io/gh/encodi%2Freact-roku-remote-control)
+
 Just to have fun with a local React Application and a Roku Device in the same network.
 
 Once integrated, you can use your web browser to control the Roku device.
